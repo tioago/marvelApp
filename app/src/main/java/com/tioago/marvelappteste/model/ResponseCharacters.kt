@@ -25,5 +25,8 @@ class ResponseCharacters: Serializable {
     @SerializedName("data")
     var data: DataCharacter? = null
 
+
+
+
 }
 
